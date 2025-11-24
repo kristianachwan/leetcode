@@ -39,11 +39,11 @@ nums[i] is either 0 or 1.
 
 **Language:** python3
 
-**Submission Date:** 2025-11-24 01:21:52
+**Submission Date:** 2025-11-24 01:27:36
 
-**Runtime:** 94 ms
+**Runtime:** 99 ms
 
-**Memory:** 19.08 MB
+**Memory:** 19.06 MB
 
 
 ```python
