@@ -47,11 +47,11 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 
 **Language:** python3
 
-**Submission Date:** 2025-11-23 18:02:54
+**Submission Date:** 2025-11-24 02:41:01
 
 **Runtime:** 0 ms
 
-**Memory:** 19.03 MB
+**Memory:** 18.98 MB
 
 
 ```python
